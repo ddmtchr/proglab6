@@ -1,6 +1,6 @@
 package client;
 
-import input_change_later.CommandInputReceiver;
+import input.CommandInputReceiver;
 import utility.Request;
 import utility.Response;
 

@@ -1,6 +1,6 @@
 package stored;
 
-import managers___ch.CollectionManager;
+import managers.CollectionManager;
 import utility.LabWorkStatic;
 
 import javax.xml.bind.annotation.*;

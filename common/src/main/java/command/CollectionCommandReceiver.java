@@ -1,11 +1,9 @@
 package command;
 
 import exceptions.EmptyCollectionException;
-import exceptions.ErrorInScriptException;
 import exceptions.NoSuchIDException;
 import stored.*;
-import managers___ch.CollectionManager;
-import managers___ch.FileManager;
+import managers.CollectionManager;
 import utility.LabWorkStatic;
 import utility.ResponseBuilder;
 

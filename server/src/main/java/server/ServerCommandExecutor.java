@@ -1,7 +1,7 @@
 package server;
 
-import managers___ch.CollectionManager;
-import managers___ch.FileManager;
+import managers.CollectionManager;
+import managers.FileManager;
 
 import java.util.Scanner;
 import java.util.logging.Level;

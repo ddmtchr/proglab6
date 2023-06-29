@@ -1,12 +1,9 @@
-package input_change_later;
+package input;
 
 import command.CommandExecutor;
 import exceptions.*;
 
-import java.io.File;
-import java.io.FileNotFoundException;
 import java.util.ArrayList;
-import java.util.NoSuchElementException;
 import java.util.Random;
 import java.util.Scanner;
 

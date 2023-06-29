@@ -1,4 +1,4 @@
-package input_change_later;
+package input;
 
 import java.util.Scanner;
 

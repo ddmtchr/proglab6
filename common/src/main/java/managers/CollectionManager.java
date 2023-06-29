@@ -1,4 +1,4 @@
-package managers___ch;
+package managers;
 
 import exceptions.NoSuchIDException;
 import stored.LabWork;
@@ -7,7 +7,6 @@ import utility.ResponseBuilder;
 import java.time.ZonedDateTime;
 import java.time.temporal.ChronoUnit;
 import java.util.Comparator;
-import java.util.OptionalInt;
 import java.util.Vector;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;

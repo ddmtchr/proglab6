@@ -1,4 +1,4 @@
-package managers___ch;
+package managers;
 
 import exceptions.IncorrectFieldInputException;
 import stored.LabWork;
